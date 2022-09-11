@@ -13,7 +13,7 @@
 ### Time Required to finish the project
     (1 hrs)
 
- [Deployed Link](https://css-html-project-six.netlify.app/)
+ [Deployed Link](https://project-6-plantshop-landingpage.netlify.app/)
 
 ![badge](https://img.shields.io/badge/Deployment-Up-green)
 
